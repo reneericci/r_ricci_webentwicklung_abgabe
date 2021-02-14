@@ -45,19 +45,7 @@ body {
 }
 
 
-#image1 img {
-    width: 50%;
-    margin-top: 30px;
-    margin-bottom: 15px;
-}
-
-#image2 img {
-    width: 50%;
-    margin-top: 30px;
-    margin-bottom: 15px;
-}
-
-#image3 img {
+.image img {
     width: 50%;
     margin-top: 30px;
     margin-bottom: 15px;
