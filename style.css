@@ -53,18 +53,18 @@ body {
 
 .image1 img {
     width: 1000px;
-    align: center;
+    justify-content: center;
 }
 
 .image2 img {
     width: 1000px;
-    align: left;
+    justify-content: left;
 
 }
 
 .image3 img {
     width: 1000px;
-    align: right;
+    justify-content: right;
 
 }
 
