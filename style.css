@@ -23,7 +23,7 @@ body {
 }
 
 #logo-name {
-    font-size: 10px;
+    font-size: 15px;
     font-weight:lighter;
     margin-bottom: 20px;
     letter-spacing: 0.35em;
@@ -33,10 +33,11 @@ body {
 }
 
 #navigation a {
+    text-decoration: off;
     color: rgb(44, 44, 44);
     padding: 10px;
     margin-top: 30px;
-    text-underline: none;
+    
 }
 
 #navigation a:hover {
