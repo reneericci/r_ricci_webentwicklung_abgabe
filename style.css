@@ -63,7 +63,7 @@ body {
 }
 
 p {
-    
+    text-align: justify;
     margin-left: 500px;
     max-width: 1000px;
     font-size: auto;
