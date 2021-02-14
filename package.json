@@ -1,0 +1,18 @@
+{
+  "name": "r_ricci_webentwicklung_abgabe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "renee.ricci <renee.ricci@study.hs-duesseldorf.de>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "http_server": "^1.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server"
+  },
+  "keywords": [],
+  "description": ""
+}
