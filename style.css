@@ -66,11 +66,12 @@ p {
     margin-left: 200px;
     max-width: 1000px;
     font-size: auto;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
 }
 
 
 h2 {
+    font-size: 40px;
     margin-left: 180px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
