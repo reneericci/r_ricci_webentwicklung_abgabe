@@ -65,5 +65,21 @@ body {
 p {
     font-size: 10;
     max-width: 800px
+    margin-left: 50px;
 
+}
+
+p1 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+p2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+p3 {
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
