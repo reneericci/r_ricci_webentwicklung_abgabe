@@ -63,6 +63,14 @@ body {
 }
 
 p {
-    margin-left: 100px;
+    margin-left: 200px;
+    max-width: 1000px;
+    font-size: auto;
+    margin-bottom: 50px;
 }
 
+
+h2 {
+    margin-left: 180px;
+    margin-bottom: 40px;
+}
