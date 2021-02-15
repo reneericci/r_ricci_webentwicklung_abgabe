@@ -51,22 +51,6 @@ body {
     margin-bottom: 15px;
 }
 
-.image1 img {
-    width: 1000px;
-    justify-content: center;
-}
-
-.image2 img {
-    width: 1000px;
-    justify-content: left;
-
-}
-
-.image3 img {
-    width: 1000px;
-    justify-content: right;
-
-}
 
 #main {
     max-width: 800x;
